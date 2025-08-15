@@ -4,7 +4,7 @@
 
 Pattern：**cost_rom**
 
-original file：**JAM.v**
+Original file：**JAM.v**
 
 Test Bench：**tb.sv**
 
