@@ -1,4 +1,8 @@
-# 2022_GRAD_CELL (2022 IC競賽初賽)
+# 2022_GRAD_CELL (2022 IC競賽 研究所 初賽)
+
+## 題目說明
+
+![question](https://github.com/teng2023/2022_GRAD_CELL/blob/main/question.png)
 
 ## 檔案介紹
 
